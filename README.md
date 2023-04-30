@@ -50,9 +50,6 @@ Fluxo da Pessoa Vendedora que possui:
 - `Express`;
 - `MySql`;
 
-[Diagrama de ER](./assets/erdr.png) conforme imagem:
-
-![Diagrama de ER](./assets/erdr.png)
 
 </details>
 <details>
